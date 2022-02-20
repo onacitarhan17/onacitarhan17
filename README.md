@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @onacitarhan17
+- 👀 I’m interested in Computer Science and Physics
+- 🌱 I’m currently learning Quantum Information
+- 📫 How to reach me: onacitarhan17@ku.edu.tr
